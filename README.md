@@ -1,1 +1,1 @@
-# RAG-Chatbot
+# My AI Projects
